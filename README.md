@@ -52,8 +52,8 @@ npm install
 ### 3. Inicie o servidor:
 npm run start:dev
 
-
-### A API estará disponível em http://localhost:3000, com a documentação Swagger acessível em http://localhost:3000/api.
+### 4. Swagger:
+A API estará disponível em http://localhost:3000, com a documentação Swagger acessível em http://localhost:3000/api.
 
 # Licença
 MIT License
