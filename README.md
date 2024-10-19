@@ -42,16 +42,14 @@ A Family Relationship API é uma API RESTful para gerenciar dados e relacionamen
 - DELETE /parents/deleteParent/{cpf}: Deleta um pai/mãe pelo CPF.
 
 # Como Rodar
-1. Clone o repositório e instale as dependências:
-
+### 1. Clone o repositório e instale as dependências:
 git clone https://github.com/seu-usuario/family-relationship-api.git
 cd family-relationship-api
 npm install
 
-2. Configure as variáveis de ambiente no arquivo .env.
+### 2. Configure as variáveis de ambiente no arquivo .env.
 
-3. Inicie o servidor:
-
+### 3. Inicie o servidor:
 npm run start:dev
 
 
